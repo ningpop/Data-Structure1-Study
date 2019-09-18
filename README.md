@@ -7,7 +7,7 @@
 
 ## 목차
 
-- 자료구조1 이론
+- [자료구조1 이론](https://github.com/ningpop/Data-structure1-Study/tree/master/theory)
     1. 파일입출력을 이용한 정수 최대/최소값 출력
     2. 알고리즘 A, B, C의 실행시간 비교
     3. 사칙연산 연속 실행시간 비교
@@ -17,7 +17,7 @@
 
 <br>
 
-- 자료구조1 실습
+- [자료구조1 실습](https://github.com/ningpop/Data-structure1-Study/tree/master/practice)
     -  파일입출력 복습
         1. 0~99까지의 난수 파일 출력
         2. 파일 입력으로 화면 출력
